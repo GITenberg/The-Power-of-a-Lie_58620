@@ -1,5 +1,5 @@
 _repo: The-Power-of-a-Lie_58620
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Caine, Hall, Sir
@@ -16,6 +16,9 @@ contributor:
     alias: Muir, J.
     gutenberg_agent_id: '6340'
     url: http://www.gutenberg.org/2009/agents/6340
+covers:
+- cover_type: archival
+  image_path: 58620-h/images/cover.jpg
 creator:
   author:
     agent_name: Bojer, Johan
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1069
     wikipedia: http://en.wikipedia.org/wiki/Johan_Bojer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58620#The-Power-of-a-Lie
 gutenberg_issued: '2019-01-05'
 gutenberg_type: Text
 identifiers:
